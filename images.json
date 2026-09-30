@@ -1,0 +1,64 @@
+{
+  "login-hero": {
+    "src": "public/images/beehives-field.jpg",
+    "fallbackSrc": "public/images/beehives-field.jpg",
+    "width": 1600,
+    "height": 2400,
+    "alt_en": "Row of wooden beehives in a mustard flower field during golden hour",
+    "alt_hi": "सुनहरी धूप में सरसों के खेत में लकड़ी के मधुमक्खी के बक्से",
+    "crop": "portrait",
+    "credit": "Damien TUPINIER (Unsplash)"
+  },
+  "home-hero": {
+    "src": "public/images/beekeeper-honeycomb.jpg",
+    "fallbackSrc": "public/images/beekeeper-honeycomb.jpg",
+    "width": 1600,
+    "height": 1200,
+    "alt_en": "Beekeeper in protective suit holding a honeycomb frame in warm outdoor light",
+    "alt_hi": "सुरक्षात्मक सूट में मधुमक्खी पालक धूप में शहद का फ्रेम पकड़े हुए",
+    "crop": "landscape",
+    "credit": "Bianca Ackermann (Unsplash)"
+  },
+  "verify-side": {
+    "src": "public/images/honey-dripping.jpg",
+    "fallbackSrc": "public/images/honey-dripping.jpg",
+    "width": 1600,
+    "height": 1067,
+    "alt_en": "Pure raw honey dripping from honeycomb dipper",
+    "alt_hi": "शहद के छत्ते से टपकता शुद्ध प्राकृतिक शहद",
+    "crop": "landscape",
+    "credit": "Arwin Neil Baichoo (Unsplash)"
+  },
+  "step-illustrations": {
+    "register": {
+      "icon": "shield-check",
+      "alt_en": "Aadhaar verified beekeeper registration",
+      "alt_hi": "आधार सत्यापित मधुमक्खी पालक पंजीकरण"
+    },
+    "harvest": {
+      "icon": "box",
+      "alt_en": "Log honey harvest batch with IoT telemetry",
+      "alt_hi": "आईओटी टेलीमेट्री के साथ शहद उत्पादन दर्ज करें"
+    },
+    "sample": {
+      "icon": "flask-conical",
+      "alt_en": "Independent NABL officer taking honey sample",
+      "alt_hi": "एनबीएल अधिकारी द्वारा स्वतंत्र नमूना संग्रह"
+    },
+    "result": {
+      "icon": "file-badge",
+      "alt_en": "Cryptographic dual consensus and test results",
+      "alt_hi": "क्रिप्टोग्राफिक परीक्षण परिणाम और प्रमाणन"
+    },
+    "market": {
+      "icon": "qr-code",
+      "alt_en": "Sell authenticated honey with dynamic QR digital passport",
+      "alt_hi": "डिजिटल क्यूआर पासपोर्ट के साथ प्रमाणित शहद की बिक्री"
+    }
+  },
+  "avatar": {
+    "type": "initials",
+    "alt_en": "User profile avatar badge",
+    "alt_hi": "उपयोगकर्ता प्रोफ़ाइल अवतार बैज"
+  }
+}
